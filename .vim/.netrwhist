@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/mark/.ssh'
+let g:netrw_dirhist_2='/Users/mark'
+let g:netrw_dirhist_3='/opt/addresses'
+let g:netrw_dirhist_4='/opt'
+let g:netrw_dirhist_5='/opt/addresses'
+let g:netrw_dirhist_6='/opt/addresses/addresses'
+let g:netrw_dirhist_7='/Users/mark/workspace/testbox'
+let g:netrw_dirhist_8='/Users/mark/src/deskgen/dgnotes/studies'
